@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: develop
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: false
+  freemarker:
+    template-loader-path: classpath:/templates
+    suffix: .ftl
+    cache: false
