@@ -58,10 +58,16 @@
   "message": "메시지"
 }
 ```
-실행 화면
 
-![멋사11기 해커톤 채팅](https://github.com/leegy21/likelion_hackathon/assets/102893824/f6dae39a-82f4-4dfd-a366-50218412f262)
+![Image](https://github.com/leegy21/likelion_hackathon_Cup_of_Coffee/assets/102893824/85f9a911-a179-434a-a6e0-eec4e140bcb8)
+![Image](https://github.com/leegy21/likelion_hackathon_Cup_of_Coffee/assets/102893824/bb82f33c-8cca-416f-a7ae-b7dc0a686322)
 
-![멋사11기 해커톤 채팅 실행](https://github.com/leegy21/likelion_hackathon_Cup_of_Coffee/assets/102893824/85f9a911-a179-434a-a6e0-eec4e140bcb8)
-![멋사 11기 해커톤 채팅 보내기](https://github.com/leegy21/likelion_hackathon_Cup_of_Coffee/assets/102893824/bb82f33c-8cca-416f-a7ae-b7dc0a686322)
+## 실행 화면
 
++ postman, MySQL Workbench, Docker(mysql) 사용
++ websocket-stomp는 postman에서 지원하지 않기 때문에 **apic** (구글확장프로그램)을 이용
++ webSocket-Stomp은 테스트 시 http://localhost:8080/ws-stomp 로 연결된다
++ 아래 사진은 왼쪽, 오른쪽 서버를 둘 다 켜서 각각 유저1, 유저2로 접속한 모습
++ 유저1이 채팅을 보내면 양쪽 서버에 뜬다
+
+![Image](https://github.com/user-attachments/assets/41a5b7f3-139f-49c0-a04f-51bc1256df73)
