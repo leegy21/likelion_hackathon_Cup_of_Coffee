@@ -5,7 +5,7 @@
 ### 채팅 기능 구현
 
 ## ERD 다이어그램
-![멋사11기 해커톤 erd](https://github.com/leegy21/likelion_hackathon/assets/102893824/73d41513-97d9-4117-90bb-993a2440a2ec)
+![Image](https://github.com/user-attachments/assets/e5ee496f-e817-4ba9-98f7-fd889e862509)
 
 ## API
 
